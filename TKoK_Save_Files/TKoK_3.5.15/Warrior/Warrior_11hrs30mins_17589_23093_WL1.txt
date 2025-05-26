@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " Name: REM#1160" )
+	call Preload( " Hero: Warrior" )
+	call Preload( " Level: 34" )
+	call Preload( " EXP: 17589" )
+	call Preload( " Gold: 23093" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l dep5P?S8P2JF6ehYikaQKkAKzEkQ1IWtP8nNOfrhP3rVSrJXEcavHHfc7tjOWP?YWfo6KT61DipfY1gLI1QlHrGUuLVv7hWgNGWXECiAAXhpEt0OZqXKdnfSLmud" )
+	call Preload( "       -l2 SWYz1cdH1KigqWDpJM7t2Mf25xMtPoeQ1HCm3A!D1O!bd!Yux?JCzjG?wAvugL8idQIq2vqPhJYApPF0oPtB8!y9X0bTaDeFmyeuxnJffuDYxQL3s6u2S5DlxxR" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

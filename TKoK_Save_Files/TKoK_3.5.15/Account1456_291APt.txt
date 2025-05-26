@@ -1,0 +1,22 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "
+
+Name: REM#1160
+
+APT: 291
+
+DEDI PTS: 144
+
+Code:
+-la ?4Tu1Z4!hSzIZILz?4MZSau?!Blk?10NKUzpl?3ZsD4iM3A!hMFqYZbmDnOoPLE2wJOUdR0qtoCjhIzXE8b9v8vu7A7NcuZFHcKC7wgD5K0EVOSkOTy6C!NtWVp
+
+
+
+" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

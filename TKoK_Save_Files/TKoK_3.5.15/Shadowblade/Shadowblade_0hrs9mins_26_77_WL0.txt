@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " Name: REM#1160" )
+	call Preload( " Hero: Shadowblade" )
+	call Preload( " Level: 1" )
+	call Preload( " EXP: 26" )
+	call Preload( " Gold: 77" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l v2EddNsLgN8b6v6RRSCcdzVwdC85lz7drmmDYxWhWFPjsbtHm7bSA6Cejl9WQNYLMiCzE49gyCyW2AmCetXRfkMbHm2UTt!O1Dlq?EFkwsuuJhYg5TQAAMevjL9E" )
+	call Preload( "       -l2 TKxSSmZ0FmHVqTqjjdn?S5b4SnHzB5aS!NNhpEeDeg1RZVQ8NaVyVqnWRBUetmp0kJn5xwUFGnGeKfNnWQujAMkV8NK9vQr3PhB6cxgM4ZXXiDpFzvtffAQxZmc" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
